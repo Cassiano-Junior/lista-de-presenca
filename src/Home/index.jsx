@@ -21,6 +21,7 @@ function Home() {
       <Card name="Camila Evelyn" time="07:01:23"/>
       <Card name="Miguel Osti" time="07:01:53"/>
       <Card name="Noah Osti" time="07:02:10"/>
+      <Card name="Teste" time="07:02:25"/>
     </div>
   )
 }
