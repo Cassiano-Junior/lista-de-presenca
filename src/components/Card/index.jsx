@@ -1,10 +1,10 @@
-import './styles.css'
+import { CardItem, Strong } from "./styles"
 
 export function Card({name, time}){
     return(
-        <div className="card">
-            <strong>{name}</strong>
+        <CardItem>
+            <Strong>{name}</Strong>
             <small>{time}</small>
-        </div>
+        </CardItem>
     )
 }
